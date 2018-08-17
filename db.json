@@ -1,7 +1,6 @@
 {
   "detalhe": [
     {
-		"id": 1,
 		"status":1,
 		"chamado":
 			{
@@ -25,13 +24,11 @@
   ],
   "listar": [
     {
-        "id": 1,
         "chamados":["2632240"],"total_paginas":1,"total_chamados":1,"status":1,"pagina":"1"
     }
   ],
   "resolver": [
     {
-        "id": 1,
         "title": "hello"
     }
   ],

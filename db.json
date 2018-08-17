@@ -1,9 +1,27 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
-    }
+		"id": 1,
+		"status":1,
+		"chamado":
+			{
+				"campoAux":[
+					{"descricao":"Forma de pagamento desejada",
+				 	 "valor":"BOLETO"
+					},
+					{"descricao":"Justificativa",
+				 	 "valor":"Pdv precisa de prazo para aumentar suas vendas"
+					},
+					{"descricao":"Prazo desejado",
+				 	 "valor":"2"
+					}],
+				"cliente":
+					{"pdv":"22682",
+			 		 "cdd":"86"
+					},
+				"codigo":2632240
+			}
+	}
   ],
   "profile": {
     "name": "typicode"

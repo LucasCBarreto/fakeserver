@@ -1,0 +1,1 @@
+Instruções de como usar o servidor fake para realizar testes.

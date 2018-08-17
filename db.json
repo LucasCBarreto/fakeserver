@@ -13,11 +13,11 @@
 				 	 "valor":"Pdv precisa de prazo para aumentar suas vendas"
 					},
 					{"descricao":"Prazo desejado",
-				 	 "valor":"2"
+				 	 "valor":"20"
 					}],
 				"cliente":
-					{"pdv":"22682",
-			 		 "cdd":"86"
+					{"pdv":"01045",
+			 		 "cdd":"61"
 					},
 				"codigo":2632240
 			}
@@ -26,7 +26,7 @@
   "listar": [
     {
         "id": 1,
-        "title": "hello"
+        "chamados":["2632240"],"total_paginas":1,"total_chamados":1,"status":1,"pagina":"1"
     }
   ],
   "resolver": [

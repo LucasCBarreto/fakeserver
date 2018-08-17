@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "detalhe": [
     {
 		"id": 1,
 		"status":1,
@@ -22,6 +22,18 @@
 				"codigo":2632240
 			}
 	}
+  ],
+  "listar": [
+    {
+        "id": 1,
+        "title": "hello"
+    }
+  ],
+  "resolver": [
+    {
+        "id": 1,
+        "title": "hello"
+    }
   ],
   "profile": {
     "name": "typicode"
